@@ -1,0 +1,17 @@
+D:\DNET\day11\onlineshopping\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\DNET\day11\onlineshopping\BLL\bin\Debug\net7.0\BLL.dll
+D:\DNET\day11\onlineshopping\BLL\bin\Debug\net7.0\BLL.pdb
+D:\DNET\day11\onlineshopping\BLL\bin\Debug\net7.0\BOL.dll
+D:\DNET\day11\onlineshopping\BLL\bin\Debug\net7.0\DAL.dll
+D:\DNET\day11\onlineshopping\BLL\bin\Debug\net7.0\BOL.pdb
+D:\DNET\day11\onlineshopping\BLL\bin\Debug\net7.0\DAL.pdb
+D:\DNET\day11\onlineshopping\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\DNET\day11\onlineshopping\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DNET\day11\onlineshopping\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\DNET\day11\onlineshopping\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\DNET\day11\onlineshopping\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\DNET\day11\onlineshopping\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\DNET\day11\onlineshopping\BLL\obj\Debug\net7.0\BLL.dll
+D:\DNET\day11\onlineshopping\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\DNET\day11\onlineshopping\BLL\obj\Debug\net7.0\BLL.pdb
+D:\DNET\day11\onlineshopping\BLL\obj\Debug\net7.0\ref\BLL.dll

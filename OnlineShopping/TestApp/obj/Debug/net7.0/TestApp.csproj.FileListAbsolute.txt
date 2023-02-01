@@ -1,0 +1,15 @@
+D:\DNET\day11\onlineshopping\TestApp\bin\Debug\net7.0\TestApp.exe
+D:\DNET\day11\onlineshopping\TestApp\bin\Debug\net7.0\TestApp.deps.json
+D:\DNET\day11\onlineshopping\TestApp\bin\Debug\net7.0\TestApp.runtimeconfig.json
+D:\DNET\day11\onlineshopping\TestApp\bin\Debug\net7.0\TestApp.dll
+D:\DNET\day11\onlineshopping\TestApp\bin\Debug\net7.0\TestApp.pdb
+D:\DNET\day11\onlineshopping\TestApp\obj\Debug\net7.0\TestApp.csproj.AssemblyReference.cache
+D:\DNET\day11\onlineshopping\TestApp\obj\Debug\net7.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DNET\day11\onlineshopping\TestApp\obj\Debug\net7.0\TestApp.AssemblyInfoInputs.cache
+D:\DNET\day11\onlineshopping\TestApp\obj\Debug\net7.0\TestApp.AssemblyInfo.cs
+D:\DNET\day11\onlineshopping\TestApp\obj\Debug\net7.0\TestApp.csproj.CoreCompileInputs.cache
+D:\DNET\day11\onlineshopping\TestApp\obj\Debug\net7.0\TestApp.dll
+D:\DNET\day11\onlineshopping\TestApp\obj\Debug\net7.0\refint\TestApp.dll
+D:\DNET\day11\onlineshopping\TestApp\obj\Debug\net7.0\TestApp.pdb
+D:\DNET\day11\onlineshopping\TestApp\obj\Debug\net7.0\TestApp.genruntimeconfig.cache
+D:\DNET\day11\onlineshopping\TestApp\obj\Debug\net7.0\ref\TestApp.dll

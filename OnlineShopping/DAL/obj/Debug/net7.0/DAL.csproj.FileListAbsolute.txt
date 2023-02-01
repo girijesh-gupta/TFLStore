@@ -1,0 +1,15 @@
+D:\DNET\day11\onlineshopping\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\DNET\day11\onlineshopping\DAL\bin\Debug\net7.0\DAL.dll
+D:\DNET\day11\onlineshopping\DAL\bin\Debug\net7.0\DAL.pdb
+D:\DNET\day11\onlineshopping\DAL\bin\Debug\net7.0\BOL.dll
+D:\DNET\day11\onlineshopping\DAL\bin\Debug\net7.0\BOL.pdb
+D:\DNET\day11\onlineshopping\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\DNET\day11\onlineshopping\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DNET\day11\onlineshopping\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\DNET\day11\onlineshopping\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\DNET\day11\onlineshopping\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\DNET\day11\onlineshopping\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\DNET\day11\onlineshopping\DAL\obj\Debug\net7.0\DAL.dll
+D:\DNET\day11\onlineshopping\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\DNET\day11\onlineshopping\DAL\obj\Debug\net7.0\DAL.pdb
+D:\DNET\day11\onlineshopping\DAL\obj\Debug\net7.0\ref\DAL.dll
