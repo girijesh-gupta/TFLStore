@@ -1,0 +1,307 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\TFLStore\\TFLStore.csproj": {}
+  },
+  "projects": {
+    "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\tfladmin\\.nuget\\packages\\",
+        "outputPath": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tfladmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\BOL\\BOL.csproj": {
+                "projectPath": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\BOL\\BOL.csproj"
+              },
+              "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\DAL\\DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\BOL\\BOL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\BOL\\BOL.csproj",
+        "projectName": "BOL",
+        "projectPath": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\BOL\\BOL.csproj",
+        "packagesPath": "C:\\Users\\tfladmin\\.nuget\\packages\\",
+        "outputPath": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\BOL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tfladmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\tfladmin\\.nuget\\packages\\",
+        "outputPath": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tfladmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\BOL\\BOL.csproj": {
+                "projectPath": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\BOL\\BOL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "mysql.data": {
+              "target": "Package",
+              "version": "[8.0.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\SAL\\SAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\SAL\\SAL.csproj",
+        "projectName": "SAL",
+        "projectPath": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\SAL\\SAL.csproj",
+        "packagesPath": "C:\\Users\\tfladmin\\.nuget\\packages\\",
+        "outputPath": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\SAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tfladmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\BLL\\BLL.csproj": {
+                "projectPath": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\BLL\\BLL.csproj"
+              },
+              "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\BOL\\BOL.csproj": {
+                "projectPath": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\BOL\\BOL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\TFLStore\\TFLStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\TFLStore\\TFLStore.csproj",
+        "projectName": "TFLStore",
+        "projectPath": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\TFLStore\\TFLStore.csproj",
+        "packagesPath": "C:\\Users\\tfladmin\\.nuget\\packages\\",
+        "outputPath": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\TFLStore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tfladmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\BOL\\BOL.csproj": {
+                "projectPath": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\BOL\\BOL.csproj"
+              },
+              "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\SAL\\SAL.csproj": {
+                "projectPath": "D:\\Ravi\\LocalRepo\\DAC\\knowitsept22\\Day12\\OnlineSolution\\SAL\\SAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

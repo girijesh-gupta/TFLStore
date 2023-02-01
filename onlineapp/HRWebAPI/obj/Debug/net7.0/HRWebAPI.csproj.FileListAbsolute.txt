@@ -1,0 +1,7 @@
+D:\DNET\onlineapp\HRWebAPI\obj\Debug\net7.0\HRWebAPI.csproj.AssemblyReference.cache
+D:\DNET\onlineapp\HRWebAPI\obj\Debug\net7.0\HRWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DNET\onlineapp\HRWebAPI\obj\Debug\net7.0\HRWebAPI.AssemblyInfoInputs.cache
+D:\DNET\onlineapp\HRWebAPI\obj\Debug\net7.0\HRWebAPI.AssemblyInfo.cs
+D:\DNET\onlineapp\HRWebAPI\obj\Debug\net7.0\HRWebAPI.csproj.CoreCompileInputs.cache
+D:\DNET\onlineapp\HRWebAPI\obj\Debug\net7.0\HRWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\DNET\onlineapp\HRWebAPI\obj\Debug\net7.0\HRWebAPI.MvcApplicationPartsAssemblyInfo.cache
