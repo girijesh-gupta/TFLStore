@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogService", "CatalogService\CatalogService.csproj", "{C70E3B3A-6235-45DA-9C4A-E623E0E8AB1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tflStore", "tflStore\tflStore.csproj", "{8A525817-85F3-4F81-B589-4FA27AE0EC16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMService", "CRMService\CRMService.csproj", "{07587BBA-893E-47EC-AF98-9CAAD0A00771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemberService", "MemberService\MemberService.csproj", "{3829C70C-2DFC-4619-B183-226B060A14D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C70E3B3A-6235-45DA-9C4A-E623E0E8AB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70E3B3A-6235-45DA-9C4A-E623E0E8AB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70E3B3A-6235-45DA-9C4A-E623E0E8AB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70E3B3A-6235-45DA-9C4A-E623E0E8AB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A525817-85F3-4F81-B589-4FA27AE0EC16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A525817-85F3-4F81-B589-4FA27AE0EC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A525817-85F3-4F81-B589-4FA27AE0EC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A525817-85F3-4F81-B589-4FA27AE0EC16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07587BBA-893E-47EC-AF98-9CAAD0A00771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07587BBA-893E-47EC-AF98-9CAAD0A00771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07587BBA-893E-47EC-AF98-9CAAD0A00771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07587BBA-893E-47EC-AF98-9CAAD0A00771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3829C70C-2DFC-4619-B183-226B060A14D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3829C70C-2DFC-4619-B183-226B060A14D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3829C70C-2DFC-4619-B183-226B060A14D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3829C70C-2DFC-4619-B183-226B060A14D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

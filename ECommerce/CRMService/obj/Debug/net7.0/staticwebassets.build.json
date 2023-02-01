@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WQtED8+vLRGZBAQjAzmcS9/gzsyPDer4+JO8G5WHdU4=",
+  "Source": "CRMService",
+  "BasePath": "_content/CRMService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
